@@ -52,3 +52,6 @@ background-color: #1033e4 ;
     pointer-events: none;
     cursor: default;
  }
+ nav .navbar-nav li a{
+    color: white !important;
+}
