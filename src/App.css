@@ -4,8 +4,8 @@
 
 .header {
     background-image: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url("./Images/PublicImages/image-2.jpg");
-    opacity: var(-- );
-    height: 20em !important;
+    opacity: var(--mainOpacity);
+    height: 25em !important;
 }
 
 .dark-overlay {
@@ -18,7 +18,7 @@
   }
 
 .main-color {
-background-color: rgb(228, 16, 62) ;
+background-color: #0e76a8 ;
 }
 
 .col-image-left {
@@ -52,6 +52,3 @@ background-color: rgb(228, 16, 62) ;
     pointer-events: none;
     cursor: default;
  }
- nav .navbar-nav li a{
-    color: white !important;
-}
