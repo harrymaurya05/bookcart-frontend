@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/bookcart-frontend/static/css/main.324028a4.css",
+    "main.css": "/bookcart-frontend/static/css/main.c36dea9c.css",
     "main.js": "/bookcart-frontend/static/js/main.b78d1572.js",
     "static/media/image-4.jpg": "/bookcart-frontend/static/media/image-4.3e2078d97fb938c45a1f.jpg",
     "static/media/image-1.jpg": "/bookcart-frontend/static/media/image-1.86d0184018dc31bf83dc.jpg",
     "static/media/image-3.jpg": "/bookcart-frontend/static/media/image-3.8ac4c6640b4f274c92b5.jpg",
     "static/media/image-2.jpg": "/bookcart-frontend/static/media/image-2.8bb6b32b528986b15fd0.jpg",
     "index.html": "/bookcart-frontend/index.html",
-    "main.324028a4.css.map": "/bookcart-frontend/static/css/main.324028a4.css.map",
+    "main.c36dea9c.css.map": "/bookcart-frontend/static/css/main.c36dea9c.css.map",
     "main.b78d1572.js.map": "/bookcart-frontend/static/js/main.b78d1572.js.map"
   },
   "entrypoints": [
-    "static/css/main.324028a4.css",
+    "static/css/main.c36dea9c.css",
     "static/js/main.b78d1572.js"
   ]
 }
