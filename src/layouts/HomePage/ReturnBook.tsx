@@ -9,7 +9,7 @@ export const ReturnBook = () => {
                     height='233'
                     alt="book"
                 />
-                <h6 className='mt-2'>Book</h6>
+                <h6 className='mt-2'>Books</h6>
                 <p>Luv2Code</p>
                 <a className='btn main-color text-white' href='#'>Reserve</a>
             </div>
