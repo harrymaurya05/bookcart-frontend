@@ -11,7 +11,7 @@ export const ReturnBook = () => {
                 />
                 <h6 className='mt-2'>Books</h6>
                 <p>Love life Code</p>
-                <a className='btn main-color text-white' href='#'>Reserve</a>
+                <a className='btn main-color text-white' href='#'>My Book</a>
             </div>
         </div>
     );
