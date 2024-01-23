@@ -9,7 +9,7 @@ export const ReturnBook = () => {
                     height='233'
                     alt="book"
                 />
-                <h6 className='mt-2'>Books hariom</h6>
+                <h6 className='mt-2'>Books kiran</h6>
                 <p>Love life Code</p>
                 <a className='btn main-color text-white' href='#'>My Book</a>
             </div>
